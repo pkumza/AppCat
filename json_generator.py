@@ -34,7 +34,7 @@ for line in file_html:
         big_cat = dict()
         cat_cnt += 1
         sub_cnt = -1
-        big_cat["name"] = "%s %02d" % (cat_cnt, item)
+        big_cat["name"] = "%s %02d" % (item, cat_cnt)
         big_cat["_children"] = list()
         file_cate.write("%02d      %s\n" % (cat_cnt, item))
 
