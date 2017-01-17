@@ -4,8 +4,7 @@
     {
       "name": "系统工具 00", 
       "_children": [
-        {
-          "name": "0000 Wi-Fi",
+        {                                                                                                                                                 
           "_children": [
             {
               "name": "000000 综合"
@@ -184,11 +183,7 @@
       "name": "音乐 06", 
       "_children": [
         {
-          "name": "0600 在线音乐",
-          "_children": [
-            "name":
-          ]
-
+          "name": "0600 在线音乐"
         }, 
         {
           "name": "0601 电台"
